@@ -1,3 +1,7 @@
+> **Warning**
+> hwinfo.io is not affiliated with this repository.
+> Any claim that this is the official product repository of hwinfo.io is false.
+
 [![Linux (clang)](https://github.com/lfreist/hwinfo/actions/workflows/build-linux-clang.yml/badge.svg)](https://github.com/lfreist/hwinfo/actions/workflows/build-linux-clang.yml)
 [![Linux (gcc)](https://github.com/lfreist/hwinfo/actions/workflows/build-linux-gcc.yml/badge.svg)](https://github.com/lfreist/hwinfo/actions/workflows/build-linux-gcc.yml)
 
